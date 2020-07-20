@@ -1,0 +1,23 @@
+C:\Users\Sojeb Sikder\Documents\Visual Studio 2012\Projects\a\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+C:\Users\Sojeb Sikder\Documents\Visual Studio 2012\Projects\a\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+C:\Users\Sojeb Sikder\Documents\Visual Studio 2012\Projects\a\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+C:\Users\Sojeb Sikder\Documents\Visual Studio 2012\Projects\a\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csprojResolveAssemblyReference.cache
+C:\Users\Sojeb Sikder\Documents\Visual Studio 2012\Projects\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+C:\Users\Sojeb Sikder\Documents\Visual Studio 2012\Projects\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+C:\Users\Sojeb Sikder\Documents\Visual Studio 2012\Projects\a\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.Cache
+C:\Users\Sojeb Sikder\Documents\Visual Studio 2012\Projects\a\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+C:\Users\Sojeb Sikder\Documents\Visual Studio 2012\Projects\a\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
+E:\my program\c#\a\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
+E:\my program\c#\a\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+E:\my program\c#\a\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csprojResolveAssemblyReference.cache
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.csproj.GenerateResource.Cache
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Setting.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\bin\Debug\NAudio.dll
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.startup.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.email.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.about.resources

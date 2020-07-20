@@ -1,0 +1,67 @@
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice Recognition.exe
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice Recognition.pdb
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\bin\Debug\Voice Recognition.exe
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\bin\Debug\Voice Recognition.pdb
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\bin\Debug\Bunifu.Core.dll
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\bin\Debug\MySql.Data.dll
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\bin\Debug\NAudio.dll
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\bin\Debug\OpenNLP.dll
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\bin\Debug\SharpEntropy.dll
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Sojeb Assistant.csprojResolveAssemblyReference.cache
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.about.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.cmd.add.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.commandText.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.download.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.email.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.note.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.noti.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.Setting.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.speech.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.startup.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Voice_Recognition.time.resources
+E:\my program\c#\a\Voice Recognition - Copy\Voice Recognition\obj\Debug\Sojeb Assistant.csproj.GenerateResource.Cache
+E:\my program\c#\a\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+E:\my program\c#\a\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+E:\my program\c#\a\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+E:\my program\c#\a\Voice Recognition\Voice Recognition\bin\Debug\MySql.Data.dll
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.about.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.cmd.add.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.commandText.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.download.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.email.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.note.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.noti.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Setting.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.speech.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.startup.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.time.resources
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Sojeb Assistant.csproj.GenerateResource.Cache
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+E:\my program\c#\a\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
+E:\My Program\c#\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+E:\My Program\c#\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+E:\My Program\c#\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+E:\My Program\c#\Voice Recognition\Voice Recognition\bin\Debug\MySql.Data.dll
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Sojeb Assistant.csprojResolveAssemblyReference.cache
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.about.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.cmd.add.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.commandText.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.download.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.email.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.note.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.noti.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Setting.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.speech.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.startup.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.time.resources
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Sojeb Assistant.csproj.GenerateResource.Cache
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+E:\My Program\c#\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
